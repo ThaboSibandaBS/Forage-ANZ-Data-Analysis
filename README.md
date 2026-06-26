@@ -42,10 +42,9 @@ As an extension, a decision tree model was also developed and benchmarked agains
 ## Repository Structure
 
 ```
-├── data/
-│   └── anz_internship_raw_data.csv
-├── notebooks/
-│   └── ANZ_Data@ANZ_Program_EDA.ipynb
+├── anz_internship_raw_data.csv
+├── ANZ_Data@ANZ_Program_EDA.ipynb
+├── ANZ_Data@ANZ_Program_EDA - Thabo Sibanda.pdf
 └── README.md
 ```
 
